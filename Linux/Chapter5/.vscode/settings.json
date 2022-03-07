@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "exception": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "cstdio": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp"
+    }
+}
